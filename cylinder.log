@@ -1,0 +1,8 @@
+нояб. 16, 2024 4:59:07 PM geometry3d.Cylinder <init>
+FINE: Cylinder created with base: Circle: radius=5.0, area=78.53981633974483, perimeter=31.41592653589793 and height: 10.0
+нояб. 16, 2024 4:59:34 PM geometry3d.Cylinder <init>
+SEVERE: Base figure cannot be null
+нояб. 16, 2024 4:59:34 PM geometry3d.Cylinder <init>
+SEVERE: Invalid height: -10.0
+нояб. 16, 2024 4:59:35 PM geometry3d.Cylinder <init>
+FINE: Cylinder created with base: Circle: radius=5.0, area=78.53981633974483, perimeter=31.41592653589793 and height: 10.0
